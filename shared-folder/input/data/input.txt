@@ -1,1 +1,7 @@
 # Create your own input dataset
+hello world
+how are you doing
+good morning 
+have a good day
+good evening 
+how was your day
